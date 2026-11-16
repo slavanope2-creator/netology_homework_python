@@ -1,3 +1,0 @@
-2026-11-16 23:13:07,829 - ERROR - [order_10000_empty.csv] ошибка чтения: No columns to parse from file
-2026-11-16 23:13:07,829 - ERROR - [order_10000_headers.csv] файл пустой
-2026-11-16 23:13:07,829 - ERROR - [order_10000_test.csv] отсутствуют колонки: ['order_id', 'person_id', 'order_date', 'status', 'total_amount', 'currency', 'payment_method', 'shipping_method']
